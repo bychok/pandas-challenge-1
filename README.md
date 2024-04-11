@@ -1,3 +1,5 @@
+![Data Analysis Graphic](Resources/data_analysis.webp)
+
 # Client Transaction Analysis Project
 
 ## Table of Contents
